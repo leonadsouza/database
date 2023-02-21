@@ -1,8 +1,8 @@
-# Creating a non-container database in ExaCS using the dbaascli utility.
+# Creating a non-container database in ExaDB-D using the dbaascli utility.
 
 ## Introduction
 
-This lab demonstrates creating a non-container database in Exadata Cloud Service using the dbaascli utility.
+This lab demonstrates creating a non-container database in Exadata Database Service on Dedicated Infrastructure using the dbaascli utility.
 
 You can use the dbaascli utility to perform various database lifecycle and administration operations on Exadata Cloud Infrastructure. Such as creating a database, deleting a database, changing the password of a database user, starting a database, managing pluggable databases (PDBs), and more. 
 
@@ -20,7 +20,7 @@ Estimated Time:  30 min
 
 ### Objectives
 In this lab, you will learn to:
-* Create a non-container database in ExaCS using the dbaascli utility.
+* Create a non-container database in ExaDB-D using the dbaascli utility.
 
 
 ### Prerequisites
@@ -29,9 +29,9 @@ This lab assumes you have:
 - A Free or LiveLabs Oracle Cloud account.
 - IAM policies to create resources in the compartment.
 - Network setup for Exadata Cloud Infrastructure.
-- Exadata Cloud Infrastructure Deployment with root access to the ExaCS VM
+- Exadata Cloud Infrastructure Deployment with root access to the ExaDB-D VM
 
-##  Task 1: Create a non-container database in ExaCS using the dbaascli utility.
+##  Task 1: Create a non-container database in ExaDB-D using the dbaascli utility.
 
 1. Connect to the virtual machine as the **opc** user. 
 

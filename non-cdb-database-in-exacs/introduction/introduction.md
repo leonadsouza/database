@@ -2,9 +2,9 @@
 
 ## About this Workshop
 
-This hands-on workshop provides step-by-step instructions on creating a non-container database in ExaCS using the dbaascli utility.
+This hands-on workshop provides step-by-step instructions on creating a non-container database in Exadata Database Service on Dedicated Infrastructure(ExaDB-D) using the dbaascli utility.
 
-By default, the database system you create using the OCI console in Exadata Cloud Service creates an Oracle Database 12.1, 12.2, 18c, or 19c using the multitenant architecture with a container database (CDB) with one pluggable database (PDB). If you want to create a non-container database in Exadata Cloud Service in OCI, this can be done using the dbaascli utility.
+By default, the database system you create using the OCI console in Exadata Database Service on Dedicated Infrastructure creates an Oracle Database using the multitenant architecture with a container database (CDB) with one pluggable database (PDB). If you want to create a non-container database in ExaDB-D in OCI, this can be done using the dbaascli utility.
 
 Estimated Workshop Time: 1 Hour 30 min
 
@@ -13,7 +13,7 @@ Estimated Workshop Time: 1 Hour 30 min
 In this workshop, you will learn how to:
 * How to create a custom Database Software Image using OCI Console.
 * How to create a DB Home using custom Database Software Image using OCI Console.
-* How to create a non-container database in ExaCS using the dbaascli utility.
+* How to create a non-container database in ExaDB-D using the dbaascli utility.
 
 
 **Prerequisites**

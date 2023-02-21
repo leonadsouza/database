@@ -1,14 +1,14 @@
-# Creating a DB Home in ExaCS using custom DB Software Image through OCI Console.
+# Creating a DB Home in ExaDB-D using custom DB Software Image through OCI Console.
 
 ## Introduction
 
-This lab walks you through the steps to create a Database Home in ExaCS using a custom Database Software Image.
+This lab walks you through the steps to create a Database Home in ExaDB-D using a custom Database Software Image.
 
 Estimated Time:  30 min
 
 ### Objectives
 In this lab, you will learn to :
-* Create DB Home in ExaCS using custom Database Software Image in OCI Console.
+* Create DB Home in ExaDB-D using custom Database Software Image in OCI Console.
 
 ### Prerequisites  
 

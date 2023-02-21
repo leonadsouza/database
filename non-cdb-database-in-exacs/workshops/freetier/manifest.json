@@ -1,5 +1,5 @@
 {
-  "workshoptitle": "Create a non-container database in ExaCS",
+  "workshoptitle": "Create a non-container database in ExaDB-D",
   "help": "livelabs-help-oci_us@oracle.com",
   "tutorials": [
     {
@@ -23,8 +23,8 @@
       "filename": "../../create-db-home-using-oci-console/create-db-home-using-oci-console.md"
     },
     {
-      "title": "Lab 3: Create a non-container database in ExaCS using the dbaascli utility",
-      "description": "Details about how to create a Non-CDB database in ExaCS using dbaascli utility",
+      "title": "Lab 3: Create a non-container database in ExaDB-D using the dbaascli utility",
+      "description": "Details about how to create a non-container database in ExaDB-D using dbaascli utility",
       "filename": "../../create-a-non-cdb-db-in-exacs-using-dbaascli-utility/create-a-non-cdb-db-in-exacs-using-dbaascli-utility.md"
     },
     {
