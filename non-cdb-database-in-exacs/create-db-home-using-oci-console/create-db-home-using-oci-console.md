@@ -22,7 +22,7 @@ This lab assumes you have:
 
 1. Open the navigation menu in the OCI Console. Click **Oracle Database**, then click **Exadata on Oracle Public Cloud**.
 
-  ![Navigate to ExaCS on OCI](./images/navigate-to-exacs-public-cloud.png "Navigate to ExaCS on OCI")
+  ![Navigate to ExaDB-D on OCI](./images/navigate-to-exacs-public-cloud.png "Navigate to ExaDB-D on OCI")
 
 
 2. Choose your **Compartment**.
@@ -36,7 +36,7 @@ This lab assumes you have:
 
     * In the list of VM clusters, find the VM cluster you want to access and click its **Display Name** to view the details page for the cluster.
 
-   ![VM Clusters in ExaCS](./images/navigate-exacs-vm-cluster.png "VM Clusters in ExaCS")
+   ![VM Clusters in ExaDB-D](./images/navigate-exacs-vm-cluster.png "VM Clusters in ExaDB-D")
 
 4. Under Resources, 
 
@@ -45,7 +45,7 @@ This lab assumes you have:
     
     * Click on **Create Database Home**.
 
-    ![Create DB home in ExaCS](./images/create-db-home1.png "Create DB home in ExaCS")
+    ![Create DB home in ExaDB-D](./images/create-db-home1.png "Create DB home in ExaDB-D")
 
 5. In the Create Database Home dialog, enter the following:
 
@@ -55,7 +55,7 @@ This lab assumes you have:
     
     * Click **Change Database Image** to use an older Oracle-published image or a custom database software image that you have created in advance.
 
-   ![Display name for DB home in ExaCS](./images/create-db-home2.png "Display name for DB home in ExaCS")
+   ![Display name for DB home in ExaDB-D](./images/create-db-home2.png "Display name for DB home in ExaDB-D")
   
 6. For Image Type, select **Custom Database Software Images**.
     
@@ -71,15 +71,15 @@ This lab assumes you have:
 
 7. Click **Create**.
 
-   ![DB home creation for ExaCS](./images/create-db-home4.png "DB home creation for ExaCS")
+   ![DB home creation for ExaDB-D](./images/create-db-home4.png "DB home creation for ExaDB-D")
 
 8. The status of the Database Home creation shows as **Provisioning**. 
 
-   ![Status of DB home creation for ExaCS](./images/create-db-home-state1.png "Status of DB home creation for ExaCS")
+   ![Status of DB home creation for ExaDB-D](./images/create-db-home-state1.png "Status of DB home creation for ExaDB-D")
 
 9. When the Database Home creation is complete, the status changes from    **Provisioning** to **Available**.
 
-   ![Completion of DB home creation for ExaCS](./images/create-db-home-state2.png "Completion of DB home creation for ExaCS")
+   ![Completion of DB home creation for ExaDB-D](./images/create-db-home-state2.png "Completion of DB home creation for ExaDB-D")
 
 
 You may now **proceed to the next lab**.

@@ -53,7 +53,7 @@ This lab assumes you have:
 
     * Click **Create Database Software Image**.
 
-  ![DB Software image for ExaCS](./images/create-custom-db-image.png "DB Software image for ExaCS")
+  ![DB Software image for ExaDB-D](./images/create-custom-db-image.png "DB Software image for ExaDB-D")
 
 
 You may now **proceed to the next lab**.
