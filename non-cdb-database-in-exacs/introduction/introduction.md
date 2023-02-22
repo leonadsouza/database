@@ -10,7 +10,7 @@ Estimated Workshop Time: 1 Hour 30 min
 
 **Workshop Objectives**
 
-In this workshop, you will learn how to:
+In this workshop, you will learn:
 * How to create a custom Database Software Image using OCI Console.
 * How to create a DB Home using custom Database Software Image using OCI Console.
 * How to create a non-container database in ExaDB-D using the dbaascli utility.
