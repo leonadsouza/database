@@ -39,11 +39,15 @@ This lab assumes you have:
 
         <copy>sudo -s
 
-3. Run the below command to view the information about Oracle Home directory locations. 
+3. Run the below command to view the information about a specific Oracle Home. Specify either the Oracle home location or Oracle home name. 
 
-        <copy>dbaascli dbhome info
+        <copy>dbaascli dbHome getDetails { --oracleHomeName value | --oracleHome value }
 
-  ![ExaDB-D DB Home informantion](./images/db-home-info.png "ExaDB-D DB Home informantion")
+    **Ex:**
+
+        <copy>dbaascli dbHome getDetails --oracleHome /u02/app/oracle/product/19.0.0.0/dbhome_5
+
+  ![ExaDB-D DB Home informantion](./images/db-home-getdetails.png "ExaDB-D DB Home informantion")
 
 4. Use the below command to run the prerequisites checks for database creation. Use the **--executePrereqs** command option. This option will perform only the prerequisite checks without the actual Oracle Database creation. 
 
