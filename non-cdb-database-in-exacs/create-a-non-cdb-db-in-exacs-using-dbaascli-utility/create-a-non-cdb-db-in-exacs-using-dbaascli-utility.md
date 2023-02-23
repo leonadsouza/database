@@ -39,7 +39,7 @@ This lab assumes you have:
 
         <copy>sudo -s
 
-3. Run the below command to view the information about a specific Oracle Home. Specify either the Oracle home location or Oracle home name. 
+3. Run the below command to view the information about a specific Oracle Home. Specify the Oracle home location found in step 10 of Lab 2. 
 
         <copy>dbaascli dbHome getDetails { --oracleHomeName value | --oracleHome value }
 

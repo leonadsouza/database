@@ -53,7 +53,7 @@ This lab assumes you have:
     
     * **Database image** determines what Oracle Database Version is used for the database. By default, the latest Oracle-published Database Software Image is selected.
     
-    * Click **Change Database Image** to use an older Oracle-published image or a custom database software image that you have created in advance as part of lab 1.
+    * Click **Change Database Image** to use an older Oracle-published image or a custom database software image that you have created in advance as part of Lab 1.
 
    ![Display name for DB home in ExaDB-D](./images/create-db-home2.png "Display name for DB home in ExaDB-D")
   

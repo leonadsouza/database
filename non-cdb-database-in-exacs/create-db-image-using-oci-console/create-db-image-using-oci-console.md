@@ -5,7 +5,7 @@ This lab walks you through creating a custom Database Software Image using the O
 
 Database software images give you the ability to create a customized Oracle Database software configuration that includes your chosen updates (PSU, RU, or RUR) and optionally, a list of one-off (or interim) patches or an Oracle Home inventory file. This reduces the time required to provision and configure your databases and makes it easy for your organization to create an approved "gold image" for developers and database administrators.
 
-While creating a DB Home in lab 2, for the Oracle Database major version releases available in Oracle Cloud Infrastructure, by default, images are provided for the current version plus the three most recent older versions (N through N - 3). If you need to create a DB Home with PSU/RU older than the default options available, follow the steps below to create a Custom Database Software Image.
+While creating a DB Home in Lab 2, for the Oracle Database major version releases available in Oracle Cloud Infrastructure, by default, images are provided for the current version plus the three most recent older versions (N through N - 3). If you need to create a DB Home with PSU/RU older than the default options available, follow the steps below to create a Custom Database Software Image.
 
 Estimated Time: 30 min
 
