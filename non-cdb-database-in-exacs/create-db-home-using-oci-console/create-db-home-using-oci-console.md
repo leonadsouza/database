@@ -81,7 +81,7 @@ This lab assumes you have:
 
    ![Completion of DB home creation for ExaDB-D](./images/create-db-home-state2.png "Completion of DB home creation for ExaDB-D")
 
-10. You can verify the **Database Home Path** details as shown below.
+10. You can view the DB Home path details in the console under the **Database Home Information** tab, with the title  **Database Home Path**  as shown below.
 
    ![DB Home path details on ExaDB-D](./images/db-home-path-details.png "DB Home path details on ExaDB-D")
 
